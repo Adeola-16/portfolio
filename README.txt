@@ -4,7 +4,7 @@ This Repository will hold all of the code and queries from the Portfolio Project
 
 1. Superstore
 2. Travel Experience
-3. Manufacturing and Distribution Company
+3. Bikes, Clothing, and Accessories Company
 
 Thank you.
 
